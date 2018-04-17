@@ -1,5 +1,6 @@
 # MovedToE3SM-Project
 ACME-Climate has moved to E3SM-Project
+https://github.com/E3SM-Project
 
 On April 17 at 10amPT, we renamed the github organization
 from ACME-Climate
